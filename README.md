@@ -16,7 +16,7 @@
 <!-- About Me Section -->
 <div align="center">
   <h2 style="font-size: 32px; color: #333;">👋 About Me</h2>
-  <img src="https://example.com/ai-icon.png" alt="AI Icon" width="100" height="100">
+  <img src="AI-logo.png alt="AI Icon" width="200" height="200">
 </div>
 
 <!-- Education Section -->

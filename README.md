@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="text-align: center;">Hello there! 👋</h1>
+  <h1 style="text-align: center;">Hello, World! 👋</h1>
 </div>
 
 <div align="center">

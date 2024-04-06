@@ -33,54 +33,15 @@ I'm AmirHosein Mirzanejad, a student of Professional Software Engineering based 
 
 <hr style="margin-top: 30px; margin-bottom: 30px;">
 
-<!-- About Me Section -->
-<div align="center">
-  <h2 style="font-size: 32px; color: #333;">👋 About Me</h2>
-  <img src="https://github.com/AM-mirzanejad/AM-mirzanejad/blob/main/AI-logo.png" alt="AI Icon" width="200" height="200">
-</div>
-<!-- Skills and Expertise Section -->
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h3 style="font-size: 28px; color: #333; margin-bottom: 15px;">🌟 Skills and Expertise</h3>
-  <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-    <li style="margin-bottom: 10px;"><strong>Python Programming:</strong> Data analysis, machine learning</li>
-    <li style="margin-bottom: 10px;"><strong>Data Manipulation & Analysis:</strong> Pandas, NumPy</li>
-    <li style="margin-bottom: 10px;"><strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly</li>
-    <li style="margin-bottom: 10px;"><strong>Statistical Modeling:</strong> Statsmodels, Hypothesis Testing</li>
-    <li style="margin-bottom: 10px;"><strong>Machine Learning Frameworks:</strong> Scikit-learn, TensorFlow, PyTorch</li>
-    <li style="margin-bottom: 10px;"><strong>Deep Learning:</strong> Keras, spaCy</li>
-    <li style="margin-bottom: 10px;"><strong>Natural Language Processing (NLP):</strong> NLTK, spaCy</li>
-    <li style="margin-bottom: 10px;"><strong>Computer Vision:</strong> OpenCV, scikit-image</li>
-    <li style="margin-bottom: 10px;"><strong>Big Data Technologies:</strong> Hadoop, Spark</li>
-    <li style="margin-bottom: 10px;"><strong>Version Control & Collaboration:</strong> Git, GitHub</li>
-    <li style="margin-bottom: 10px;"><strong>Web Scraping & Data Extraction:</strong> Beautiful Soup, Scrapy</li>
-    <li style="margin-bottom: 10px;"><strong>Cloud Platforms:</strong> AWS, Google Cloud</li>
-  </ul>
-</div>
 
-<!-- Projects Section -->
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
-  <h3 style="font-size: 28px; color: #333; margin-bottom: 15px;">🚀 Projects</h3>
-  <ul style="list-style-type: disc; padding-left: 20px; line-height: 1.6;">
-    <li style="margin-bottom: 10px;">Gold Price Prediction</li>
-    <li style="margin-bottom: 10px;">Stroke and Diabetes Prediction</li>
-    <li style="margin-bottom: 10px;">OCR (Optical Character Recognition)</li>
-    <li style="margin-bottom: 10px;">Image Processing and Object Detection</li>
-    <li style="margin-bottom: 10px;">House Price Estimation</li>
-    <li style="margin-bottom: 10px;">Insurance Claim Damage Assessment</li>
-    <li style="margin-bottom: 10px;">Personalized Product Recommendation System</li>
-    <li style="margin-bottom: 10px;">Music Recommendation System like Spotify</li>
-    <li style="margin-bottom: 10px;">News Classification and Analysis</li>
-  </ul>
-  <hr style="margin-top: 20px; margin-bottom: 20px;">
-</div>
 
 
 
 
 <!-- Libraries Section -->
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<div align="center" style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h3 style="font-size: 28px; color: #333; margin-bottom: 15px;">📚 Libraries</h3>
-  <table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; border-radius: 8px;">
+  <table style="width: 80%; border-collapse: collapse; border: 1px solid #ddd; border-radius: 8px;">
     <tr>
       <th style="padding: 15px; text-align: left; background-color: #f2f2f2;">Library</th>
       <th style="padding: 15px; text-align: left; background-color: #f2f2f2;">Badge</th>
@@ -118,9 +79,9 @@ I'm AmirHosein Mirzanejad, a student of Professional Software Engineering based 
       <td style="padding: 15px; border-bottom: 1px solid #ddd;"><a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/-Seaborn-9cf?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"></a></td>
     </tr>
   </table>
-</div> 
-<hr style="margin-top: 20px; margin-bottom: 20px;">
 </div>
+<hr style="margin-top: 20px; margin-bottom: 20px;">
+
 
 
 

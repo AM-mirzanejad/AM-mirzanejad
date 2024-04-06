@@ -14,12 +14,13 @@
     <a href="https://t.me/AMmirzanejad">
       <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/am-mirzanejad">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>&nbsp;&nbsp;
     <a href="mailto:AM.mirzanejad@gmail.com">
       <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge" alt="Email">
-    </a>
+    </a></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/am-mirzanejad">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    
+
   </p>
 </div>
 

@@ -2,7 +2,6 @@
   <h1 style="text-align: center;">Hello, World! 👋</h1>
 </div>
 
-![Coding GIF](https://github.com/AM-mirzanejad/AM-mirzanejad/blob/main/Robot%20Hand%20AI.gif)
 
 
 
@@ -149,3 +148,6 @@ I'm AmirHosein Mirzanejad, a student of Professional Software Engineering based 
     <!-- Add more tools as needed -->
   </p>
 </div>
+
+![Coding GIF](https://github.com/AM-mirzanejad/AM-mirzanejad/blob/main/Robot%20Hand%20AI.gif)
+

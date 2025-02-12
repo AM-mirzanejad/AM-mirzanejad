@@ -2,9 +2,9 @@
   <h1 style="text-align: center;">Hello, World! 👋</h1>
 </div>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/7ed4dcd6b92f01d24c2c74c7ed3e3cec12fc016c1e2e2875ec802cb5a217c9f9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f336b50446d6f5764427051504e68436e55472f67697068792e676966" alt="Coding GIF">
-</div>
+![Coding GIF](https://github.com/AM-mirzanejad/AM-mirzanejad/blob/main/Untitled%20design.gif?raw=true)
+
+
 
 
 <!-- Contact Information -->

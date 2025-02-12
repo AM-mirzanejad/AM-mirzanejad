@@ -2,7 +2,9 @@
   <h1 style="text-align: center;">Hello, World! 👋</h1>
 </div>
 
-
+<div align="center">
+  <img src="https://github.com/AM-mirzanejad/AM-mirzanejad/blob/main/Tech%20Infographics.gif?raw=true" alt="Coding GIF" width="600">
+</div>
 
 
 

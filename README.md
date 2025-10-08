@@ -1,11 +1,15 @@
-<div align="center">
-  <h1 style="text-align: center;">Hello, World! 👋</h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+AmirHosein+Mirzanejad" alt="Typing Animation"/>
+</p>
 
 <div align="center">
   <img src="https://github.com/AM-mirzanejad/AM-mirzanejad/blob/main/Tech%20Infographics.gif?raw=true" alt="Coding GIF" width="600">
 </div>
 
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AM-mirzanejad&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+</p>
 
 
 <!-- Contact Information -->
@@ -24,11 +28,38 @@
 
   </p>
 </div>
-
-
   <hr style="margin-top: 20px; margin-bottom: 20px;">
 </div>
 
+
+<!-- Galaxy Badge Section -->
+<h3 align="center">🌟 Galactic Achievements:</h3>  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=AM-mirzanejad&theme=gruvbox&margin-w=15&margin-h=15&row=1&column=6&no-frame=true&no-bg=true&rank=multi-language&rank=accomplished&rank=developer" alt="GitHub Trophy"/>  
+</p>  
+
+
+<!-- Cool Animated Contribution Graph -->
+<h3 align="center">📈 Contribution Activity:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+
+<!-- Cosmic Design Footer -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AM-mirzanejad&theme=solarized_dark" alt="Profile Details"/>
+</p>
+
+
+
+
+<h3 align="center">AI Engineer and Innovator from Iran — exploring the intersection of intelligence and creativity.</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Innovator" alt="Typing Animation"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AM-mirzanejad&label=Profile%20views&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
 ## Hey, I'm AmirHosein! 🌟
 
 I'm AmirHosein Mirzanejad, a student of Professional Software Engineering based in Iran. I hold a Bachelor's degree and specialize as a data scientist and AI expert. Welcome to my GitHub profile! Grab a cup of coffee ☕ and explore the world of code with me. I'm passionate about artificial intelligence, machine learning, deep learning, and building innovative projects.

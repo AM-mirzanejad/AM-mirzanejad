@@ -139,8 +139,6 @@
 
 
 <!-- Who I Am & Skills – Dark Theme -->
-<h3 align="center" style="color:#39FF14;">🌟 Who I Am & What I Do</h3>
-
 <p align="center" style="color:#CFCFCF; font-size:18px; line-height:1.6; max-width:800px; margin:auto;">
 Hi! I'm <strong style="color:#39FF14;">AmirHosein Mirzanejad</strong>, a Data Scientist & AI Engineer from Iran.  
 I specialize in <span style="color:#39FF14;">Python, Machine Learning 🤖, Deep Learning</span>, and building innovative projects 🌌.
@@ -155,7 +153,6 @@ I specialize in <span style="color:#39FF14;">Python, Machine Learning 🤖, Deep
 </p>
 
 
-<!-- Libraries Section – Neon Green with Logos -->
 <!-- Libraries Section – Neon Green with Logos -->
 <h3 align="center" style="color:#39FF14; margin-top:40px; margin-bottom:20px;">📚 Libraries & Tools</h3>
 

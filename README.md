@@ -211,48 +211,7 @@ I specialize in <span style="color:#39FF14;">Python, Machine Learning 🤖, Deep
 
 
 
-### 🛠️ Languages, Tools, and IDEs
 
-<p align="center">
-  <!-- Languages -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=39FF14&height=45" alt="Python"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=39FF14&height=45" alt="JavaScript"/>
-  </a>
-
-  <!-- IDEs -->
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-0A0A0A?style=for-the-badge&logo=pycharm&logoColor=39FF14&height=45" alt="PyCharm"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS Code-0A0A0A?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14&height=45" alt="VS Code"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google Colab-0A0A0A?style=for-the-badge&logo=google-colab&logoColor=39FF14&height=45" alt="Google Colab"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=39FF14&height=45" alt="PostgreSQL"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-0A0A0A?style=for-the-badge&logo=jupyter&logoColor=39FF14&height=45" alt="Jupyter"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=39FF14&height=45" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=39FF14&height=45" alt="Pandas"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=matplotlib&logoColor=39FF14&height=45" alt="Matplotlib"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge&logo=seaborn&logoColor=39FF14&height=45" alt="Seaborn"/>
-  </a>
-</p>
 
 ![Coding GIF](https://github.com/AM-mirzanejad/AM-mirzanejad/blob/main/Robot%20Hand%20AI.gif)
 
